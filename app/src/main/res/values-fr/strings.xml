@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application Auto-promotion</string>
+    <string name="hint_contact_name">Nom du contact</string>
+    <string name="hint_contact_number">Numéro de contact</string>
+    <string name="hint_display_name">Mon nom d\'affichage</string>
+    <string name="text_junior">Inclure Junior</string>
+    <string name="text_immediate_start">démarrage immédiat</string>
+    <string name="hint_available_date">Disponible à partir de ce jour</string>
+    <string name="text_preview_message">Aperçu du message</string>
+    <string name="button_text_send_message">Envoyer le message</string>
+</resources>
